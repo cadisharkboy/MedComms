@@ -104,10 +104,10 @@ p {
 </div>
 
 <div class="topnav">
-  <a class="active" href="MedComms2.htm">Home</a>
-  <a href="services.htm">Services</a>
-  <a href="Prices.htm">Pricing</a>
-  <a href="MedComms sources page.htm">Work Cited</a>
+  <a class="active" href="https://cadisharkboy.github.io/MedComms/">Home</a>
+  <a href="https://cadisharkboy.github.io/MedComms/services.html">Services</a>
+  <a href="https://cadisharkboy.github.io/MedComms/prices.html">Pricing</a>
+  <a href="https://cadisharkboy.github.io/MedComms/work-cited.html">Work Cited</a>
 </div>
 
 <div class="row">
