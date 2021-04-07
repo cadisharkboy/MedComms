@@ -103,8 +103,8 @@ p {
 <div class="topnav">
   <a class="active" href="https://cadisharkboy.github.io/MedComms/">Home</a>
   <a href="https://cadisharkboy.github.io/MedComms/services.html">Services</a>
-  <a href="Prices.htm">Pricing</a>
-  <a href="MedComms sources page.htm">Work Cited</a>
+  <a href="https://cadisharkboy.github.io/MedComms/prices.html">Pricing</a>
+  <a href="https://cadisharkboy.github.io/MedComms/work-cited.html">Work Cited</a>
 </div>
 
 <h1 style="font-size: 60px;background-color: rgb(153, 204, 255); color:black;font-family:courier;text-align:center;">
