@@ -150,10 +150,10 @@ p {
  <div class="row">
    <h3> Contact Us</h3>
   <div class="column2">
-   <p> (334) 494-3355 </p> 
+   <p style="font-size: 18px;"> (334) 494-3355 </p> 
   </div>
   <div class="column2">
-   <p> ammosfilms44@gmail.com </p>
+   <p style="font-size: 18px;"> ammosfilms44@gmail.com </p>
   </div>
   <div class="column2">
    <address>  605 W College St, Enterprise, AL 36330 </address>
