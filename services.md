@@ -113,7 +113,7 @@ p {
 <div class="row">
   <div class="column">
     <h2 style="text-align: center;">Video Conferences</h2>
-    <a href="prices.htm">
+    <a href="https://cadisharkboy.github.io/MedComms/prices.htm">
     <img src="C:\Users\s649309\Desktop\Video Conference-8.png" width="300" height="300" float="left" align="center"/>
     </a>
     <p>MedComms video conferences permits patients to interact with their doctor in a real-time discussion from the comfort and safety of their homes. With the ease that comes with setting up a video conference, one can be scheduled at almost any time and with short notice.</p>
@@ -121,7 +121,7 @@ p {
   
   <div class="column">
     <h2 style="text-align: center;">Phone Calls</h2>
-    <a href="prices.htm">
+    <a href="https://cadisharkboy.github.io/MedComms/prices.htm">
     <img src="C:\Users\s649309\Desktop\Phone Call Icon-8.png" width="300" height="300" float="left" align="center"/>
     </a>
     <p>Our phone calls provide a level of communication that is between video conferences and text messages by providing not only the efficiency that comes with real-time conversation but also the ability to access it at almost any time and place. If a client desires, a call concerning a complex issue can be scheduled, but any call can still be placed at all times.</p>
@@ -131,7 +131,7 @@ p {
 <div class="row">
   <div class="column">
     <h2 style="text-align: center;">Messages</h2>
-    <a href="prices.htm">
+    <a href="https://cadisharkboy.github.io/MedComms/prices.htm">
     <img src="C:\Users\s649309\Desktop\Message Icon-8.png" width="300" height="300" float="left" align="center"/>
     </a>
     <p>Whether on the go, or isolated at home, life can be keep everyone busy. Our messaging service allows for casual communication of non-emergency medical situations, and it can be set up to send reminds for prescriptions and such. Our messaging system helps clients in a way that doesn’t interrupt their day. </p>
@@ -139,7 +139,7 @@ p {
  
   <div class="column">
     <h2 style="text-align: center;">Our App</h2>
-    <a href="prices.htm">
+    <a href="https://cadisharkboy.github.io/MedComms/prices.htm">
     <img src="C:\Users\s649309\Desktop\App Icon-8.png" width="300" height="300" float="left" align="center"/>
     </a>
     <p>The MedComms mobile app puts all of our provided services in a single place and allows them to be efficiently and more easily utilized. Clients will appreciate how fast they can reach healthcare providers and the application features designed with ease-of-accessibility in mind.</p>
