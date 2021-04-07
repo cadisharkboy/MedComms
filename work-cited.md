@@ -140,7 +140,6 @@ p {
    <a target="_blank" href="https://www.freepik.com/photos/people"> Freepik </a>
   </div>
  </div>
-</div>
 
 <div class="clearfix"></div>
 
