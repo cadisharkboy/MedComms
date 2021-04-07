@@ -113,6 +113,7 @@ MedComms
 </h1>
 
 <div class="row">
+  
   <div class="column">
     <h2 style="text-align: center;">Services</h2>
     <a href="https://cadisharkboy.github.io/MedComms/services.html" align="center" class="button">Browse Our Selection</a>
@@ -124,8 +125,10 @@ MedComms
     <a href="https://cadisharkboy.github.io/MedComms/prices.html" align="center" class="button">Find a Price or Package</a>
     <p>Our affordable prices combined with the variety of available package options allows healthcare providers to find the perfect selection that fits their business. The money you save by distributing medical assistance and knowledge through MedComms will make the hospital bills cheaper, which can be life-saving for many patients and attractive to potential ones.</p>
   </div>
-
-<img src="doctor.jpg" width="400" padding="200" float="right">
+  
+<div class="column">
+ <img src="doctor.jpg" width="400" padding="200" float="right">
+</div>
 
 </div>
 
