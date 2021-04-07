@@ -96,7 +96,7 @@ p {
 
 <div class="header">
 <a href="MedComms2.htm">
-  <img src="logo.png" width="300" padding="200" float="center">
+  <img src="Logo.png" width="300" padding="200" float="center">
 </a>
 </div>
 
@@ -120,13 +120,13 @@ MedComms
     <p>Browse our list of services designed for medical providers with patients who need expert medical assistance in a variety of situations. Whether it be social distancing due to COVID-19 or being physically unable to make it to a doctor, MedComms supplies multiple distance medical care options that allow patients to tailor their aid and the manner in which they receive it to suit circumstances.</p>
   </div>
   
-<img src="doctor.jpg" width="400" padding="200" float="center">
-  
   <div class="column">
     <h2 style="text-align: center;">Prices</h2>
     <a href="https://cadisharkboy.github.io/MedComms/prices.html" align="center" class="button">Find a Price or Package</a>
     <p>Our affordable prices combined with the variety of available package options allows healthcare providers to find the perfect selection that fits their business. The money you save by distributing medical assistance and knowledge through MedComms will make the hospital bills cheaper, which can be life-saving for many patients and attractive to potential ones.</p>
   </div>
+
+<img src="doctor.jpg" width="400" padding="200" float="center">
 
 </div>
 
