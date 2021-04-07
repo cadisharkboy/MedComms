@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>MedComms</title>
@@ -171,8 +170,3 @@ p {
     <div class="desc">Click Here for the Work Log: Part Two</div>
   </div>
 </div>
-
-<div class="clearfix"></div>
-
-</body>
-</html>
