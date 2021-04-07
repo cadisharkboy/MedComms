@@ -126,7 +126,7 @@ MedComms
     <p>Our affordable prices combined with the variety of available package options allows healthcare providers to find the perfect selection that fits their business. The money you save by distributing medical assistance and knowledge through MedComms will make the hospital bills cheaper, which can be life-saving for many patients and attractive to potential ones.</p>
   </div>
 
-<img src="doctor.jpg" width="400" padding="200" float="center">
+<img src="doctor.jpg" width="400" padding="200" float="right">
 
 </div>
 
