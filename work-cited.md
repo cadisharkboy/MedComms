@@ -112,8 +112,8 @@ p {
 <body>
 
 <div class="header">
-<a href="MedComms2.htm">
-  <img src="logo.jpg" width="300" padding="200" float="center">
+<a href="https://cadisharkboy.github.io/MedComms/">
+  <img src="Logo.png" width="300" padding="200" float="center">
 </a>
 </div>
 
@@ -156,8 +156,8 @@ p {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="C:\Users\s649309\Desktop\WorkLog.jpg">
-      <img src="C:\Users\s649309\Desktop\WorkLog.jpg" alt="Work log " width="600" height="400">
+    <a target="_blank" href="plan-of-work-log.pdf">
+      <img src="plan-of-work-log.pdf" alt="Work log " width="600" height="400">
     </a>
     <div class="desc">Click Here for the Work Log: Part One</div>
   </div>
