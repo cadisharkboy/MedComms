@@ -102,7 +102,7 @@ p {
 
 <div class="topnav">
   <a class="active" href="https://cadisharkboy.github.io/MedComms/">Home</a>
-  <a href="services.htm">Services</a>
+  <a href="https://cadisharkboy.github.io/MedComms/services.html">Services</a>
   <a href="Prices.htm">Pricing</a>
   <a href="MedComms sources page.htm">Work Cited</a>
 </div>
