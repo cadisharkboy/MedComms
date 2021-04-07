@@ -95,8 +95,8 @@ p {
 <body>
 
 <div class="header">
-<a href="MedComms2.htm">
-  <img src="logo.jpg" width="300" padding="200" float="center">
+<a href="https://cadisharkboy.github.io/MedComms/">
+  <img src="Logo.png" width="300" padding="200" float="center">
 </a>
 </div>
 
