@@ -96,7 +96,7 @@ p {
 
 <div class="header">
 <a href="MedComms2.htm">
-  <img src="logo.jpg" width="300" padding="200" float="center">
+  <img src="logo.png" width="300" padding="200" float="center">
 </a>
 </div>
 
@@ -120,7 +120,7 @@ MedComms
     <p>Browse our list of services designed for medical providers with patients who need expert medical assistance in a variety of situations. Whether it be social distancing due to COVID-19 or being physically unable to make it to a doctor, MedComms supplies multiple distance medical care options that allow patients to tailor their aid and the manner in which they receive it to suit circumstances.</p>
   </div>
   
-<img src="C:\Users\s649309\Desktop\doctor.jpg" width="400" padding="200" float="center">
+<img src="doctor.jpg" width="400" padding="200" float="center">
   
   <div class="column">
     <h2 style="text-align: center;">Prices</h2>
