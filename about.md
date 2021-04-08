@@ -200,6 +200,3 @@ div.desc {
   </div>
  </div>
 </div>
-
-</body>
-</html>
