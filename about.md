@@ -52,19 +52,18 @@ p {
   width: 25%;
   padding: 20px;
 }
+/* Create three equal columns that floats next to each other */
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
 
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width:600px) {
-  .column {
-    width: 100%;
-  }
 }
 
 .footer {
@@ -170,19 +169,6 @@ div.desc {
 
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
   <p style=" font-size: 60px" class="center">Partners:<p> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="190" height="200" class="center">
     
@@ -197,13 +183,13 @@ div.desc {
 <div class="footer">
  <div class="row">
    <h3> Contact Us</h3>
-  <div class="column">
+  <div class="column2">
    <p> (334) 494-3355 </p> 
   </div>
-  <div class="column">
+  <div class="column2">
    <p> ammosfilms44@gmail.com </p>
   </div>
-  <div class="column">
+  <div class="column2">
    <address>  605 W College St, Enterprise, AL 36330 </address>
   </div>
  </div>
