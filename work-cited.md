@@ -139,8 +139,6 @@ p {
    <p>All graphics were created by Marion Coffman.</p>
    <p>Image of doctor helping his patient is from:
    <a target="_blank" href="https://www.freepik.com/photos/people"> Freepik </a>
-  </div>
- </div>
 
 <div class="clearfix"></div>
 
