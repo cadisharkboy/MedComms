@@ -106,6 +106,7 @@ p {
   <a class="active" href="https://cadisharkboy.github.io/MedComms/">Home</a>
   <a href="https://cadisharkboy.github.io/MedComms/services.html">Services</a>
   <a href="https://cadisharkboy.github.io/MedComms/prices.html">Pricing</a>
+  <a href="https://cadisharkboy.github.io/MedComms/about.html">About Us</a>
   <a href="https://cadisharkboy.github.io/MedComms/work-cited.html">Work Cited</a>
 </div>
 
