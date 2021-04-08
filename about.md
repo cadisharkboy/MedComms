@@ -93,7 +93,6 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   position: relative;
-  left: 550px;
   width: 180px;
 }
 
