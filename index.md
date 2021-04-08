@@ -128,7 +128,7 @@ MedComms
   </div>
   
 <div class="column">
- <img src="doctor.jpg" width="400" height="600" padding="200" float="right">
+ <img src="doctor.jpg" width="400" height="400" padding="200" float="right">
 </div>
 
 </div>
