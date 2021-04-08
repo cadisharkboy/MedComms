@@ -194,8 +194,6 @@ div.desc {
    
   <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo.jpg" width="200" height="200">
 
-</div>
-
 <div class="footer">
  <div class="row">
    <h3> Contact Us</h3>
