@@ -49,7 +49,7 @@ p {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 20px;
 }
 
@@ -131,34 +131,45 @@ div.desc {
 
   <p style=" font-size: 76px"><b> Who We Are</b></p>
 
-<div class="gallery">
-  <a target="_blank">
-    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
-  </a>
-  <div class="desc">Put what the person does(CEO, doctor, ect...)</div>
-</div>
+<div class="row">
 
-<div class="gallery">
-  <a target="_blank">
-    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
-  </a>
-  <div class="desc">Put what the person does</div>
-</div>
-
+<div class="column">
 <div class="gallery">
   <a target="_blank">
     <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
   </a>
   <div class="desc">Put what the person does</div>
 </div>
+</div>
 
+<div class="column">
 <div class="gallery">
   <a target="_blank">
     <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
   </a>
   <div class="desc">Put what the person does</div>
 </div>
+</div>
 
+<div class="column">
+<div class="gallery">
+  <a target="_blank">
+    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
+  </a>
+  <div class="desc">Put what the person does</div>
+</div>
+</div>
+
+<div class="column">
+<div class="gallery">
+  <a target="_blank">
+    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
+  </a>
+  <div class="desc">Put what the person does</div>
+</div>
+</div>
+
+</div>
 
 </br>
 </br>
@@ -174,17 +185,17 @@ div.desc {
 </br>
 
   <p style=" font-size: 60px" class="center">Partners:<p> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"Apple" width="190" height="200" class="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="190" height="200" class="center">
     
-  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png"Nvidia" width="250" height="200" class="center"><p>  
+  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="250" height="200" class="center"><p>  
           
 
   <p style=" font-size: 60px"> Connect with Us: <p> <p style=" font-size: 50px">@MedComms<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"facebook" width="210" height="200">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="210" height="200">  
    
-  <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo.jpg"instagram" width="200" height="200">
+  <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo.jpg" width="200" height="200">
 
-  </div>
+</div>
 
 <div class="footer">
  <div class="row">
