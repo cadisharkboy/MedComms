@@ -174,15 +174,15 @@ div.desc {
 </br>
 
   <p style=" font-size: 60px" class="center">Partners:<p> 
-    <p style=" font-size: 60px"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"Apple" width="190" height="200" class="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"Apple" width="190" height="200" class="center">
     
-        <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png"Nvidia" width="250" height="200" class="center"><p>  
+  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png"Nvidia" width="250" height="200" class="center"><p>  
           
 
   <p style=" font-size: 60px"> Connect with Us: <p> <p style=" font-size: 50px">@MedComms<p>
-    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"facebook" width="210" height="200">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"facebook" width="210" height="200">  
    
-    <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo.jpg"instagram" width="200" height="200"><p>
+  <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo.jpg"instagram" width="200" height="200">
 
   </div>
 
