@@ -127,7 +127,7 @@ div.desc {
 
 <div class="header">
 
-  <p style=" font-size: 76px"><b> Who We Are</b></p>
+<p style=" font-size: 76px"><b> Who We Are</b></p>
 
 <div class="row">
 
@@ -190,7 +190,7 @@ div.desc {
    <p> ammosfilms44@gmail.com </p>
   </div>
   <div class="column2">
-   <address>  605 W College St, Enterprise, AL 36330 </address>
+   <address>605 W College St, Enterprise, AL 36330</address>
   </div>
  </div>
 </div>
