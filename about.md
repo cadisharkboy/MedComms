@@ -1,87 +1,92 @@
-< lang="en">
-	<head> 
-  <title>MedComms</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<style>
-			* {
-				box-sizing: border-box;
-			}
+<head> 
+<title>MedComms</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  
+}
 
-			body {
-				margin: 0;
-			}
+body {
+  margin: 0;
 
-			/* Style the header */
-			.header {
-				background-color: white;
-				padding: 20px;
-				text-align: center;
-			}
+}
 
-			/* Style the top navigation bar */
-			.topnav {
-				overflow: hidden;
-				background-color: #333;
-			}
+p {
+  font-size: 18px;
+}
 
-			/* Style the topnav links */
-			.topnav a {
-				float: left;
-				color: #f2f2f2;
-				text-align: center;
-				padding: 14px 16px;
-				text-decoration: none;
-				display: block;
-			}
+/* Style the header */
+.header {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
 
-			/* Change color on hover */
-			.topnav a:hover {
-				background-color: #4CAF50;
-				color: black;
-			}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 
-			/* Create three equal columns that floats next to each other */
-			.column {
-				float: left;
-				width: 33.33%;
-				padding: 20px;
-			}
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: block;
+}
 
-			/* Clear floats after the columns */
-			.row:after {
-				content: "";
-				display: table;
-				clear: both;
-			}
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #4CAF50;
+  color: black;
+}
 
-			/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-			@media screen and (max-width:600px) {
-				.column {
-					width: 100%;
-				}
-			}
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
 
-			.footer {
-				background-color: #f1f1f1;
-				padding: 10px;
-				text-align: center;
-			}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-			.button {
-				background-color: gainsboro;
-				float: center;
-				display: inline-block;
-				border: none;
-				color: white;
-				padding: 15px 32px;
-				text-align: center;
-				text-decoration: none;
-				font-size: 20px;
-				margin: 4px 2px;
-				cursor: pointer;
-			}
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
 
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+.button {
+  background-color: #4CAF50;
+  float: center;
+  display: inline-block;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 4px 2px;
+  margin-left: 50;
+  cursor: pointer;
+}
 
 div.gallery {
   margin: 5px;
@@ -106,16 +111,12 @@ div.desc {
   text-align: center;
 }
 
+</style>
+</head>
+<body>
 
-
-
-		</style>
-	</head>
-
-	<body>
-
-		<div class="header">
-			<img src="Logo.png" width="300" padding="200" float="center">
+<div class="header">
+<img src="Logo.png" width="300" padding="200" float="center">
 </div>
 
 <div class="topnav">
@@ -126,7 +127,7 @@ div.desc {
   <a href="https://cadisharkboy.github.io/MedComms/work-cited.html">Work Cited</a>
 </div>
 
-  <div class="header">
+<div class="header">
 
   <p style=" font-size: 76px"><b> Who We Are</b></p>
 
@@ -172,9 +173,6 @@ div.desc {
 </br>
 </br>
 
-
-  <div class= "textSize">
-</div>
   <p style=" font-size: 60px" class="center">Partners:<p> 
     <p style=" font-size: 60px"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"Apple" width="190" height="200" class="center">
     
