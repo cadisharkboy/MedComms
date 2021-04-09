@@ -134,7 +134,7 @@ div.desc {
 <div class="column">
 <div class="gallery">
   <a target="_blank">
-    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
+    <img src="IMG_6254.jpg" alt="Person" width="600" height="400">
   </a>
   <div class="desc">Put what the person does</div>
 </div>
@@ -143,7 +143,7 @@ div.desc {
 <div class="column">
 <div class="gallery">
   <a target="_blank">
-    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
+    <img src="IMG_6253.jpg" alt="Person" width="600" height="400">
   </a>
   <div class="desc">Put what the person does</div>
 </div>
@@ -152,7 +152,7 @@ div.desc {
 <div class="column">
 <div class="gallery">
   <a target="_blank">
-    <img src="https://www.tenforums.com/geek/gars/images/2/types/thumb_15951118880user.png" alt="Person" width="600" height="400">
+    <img src="IMG_6255.jpg" alt="Person" width="600" height="400">
   </a>
   <div class="desc">Put what the person does</div>
 </div>
