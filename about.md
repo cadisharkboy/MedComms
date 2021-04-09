@@ -176,7 +176,7 @@ div.desc {
   <p style=" font-size: 60px" class="center">Partners:</p> 
   <img src="eCat-Logo-transparent.png" width="250" height="250" class="center">
     
-  <img src="ECTC-logo-transparent.png" width="200" height="250" class="center"> 
+  <img src="ECTC-logo-transparent.png" width="350" height="250" class="center"> 
           
 
   <p style=" font-size: 60px"> Connect with Us on Social Media: </p> 
