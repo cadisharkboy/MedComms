@@ -136,7 +136,8 @@ div.desc {
   <a target="_blank">
     <img src="IMG_6254.jpg" alt="Person" width="600" height="400">
   </a>
-  <div class="desc">Put what the person does</div>
+  <div class="desc">Marion Coffman</div>
+  <div class="desc">Medical Consultant</div>
 </div>
 </div>
 
@@ -145,7 +146,8 @@ div.desc {
   <a target="_blank">
     <img src="IMG_6253.jpg" alt="Person" width="600" height="400">
   </a>
-  <div class="desc">Put what the person does</div>
+  <div class="desc">Cadis Ammons</div>
+  <div class="desc">IT Support</div>
 </div>
 </div>
 
@@ -154,7 +156,8 @@ div.desc {
   <a target="_blank">
     <img src="IMG_6255.jpg" alt="Person" width="600" height="400">
   </a>
-  <div class="desc">Put what the person does</div>
+  <div class="desc">Nisal Wijekularathna</div>
+  <div class="desc">IT Support</div>
 </div>
 </div>
 
