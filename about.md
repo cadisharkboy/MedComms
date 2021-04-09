@@ -125,6 +125,8 @@ div.desc {
   <a href="https://cadisharkboy.github.io/MedComms/work-cited.html">Work Cited</a>
 </div>
 
+<div class="header">
+  
 <p style=" font-size: 76px"><b> Who We Are</b></p>
 
 <div class="row">
