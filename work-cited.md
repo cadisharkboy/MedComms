@@ -155,7 +155,7 @@ p {
     <a target="_blank" href="student-copyright-checklist.jpg">
       <img src="student-copyright-checklist.jpg" alt="Copyright" width="800" height="600">
     </a>
-    <div class="desc">Click Here for the Student Copyright Checklist</div>
+    <div class="desc">Click Here for the Student Copy right Checklist</div>
   </div>
 </div>
 
