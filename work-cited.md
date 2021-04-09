@@ -49,6 +49,12 @@ p {
   padding: 20px;
 }
 
+.column2 {
+  float: left;
+  width: 25%;
+  padding: 20px;
+}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -142,6 +148,8 @@ p {
 
 <div class="clearfix"></div>
 
+<div class="row">
+<div class="column2">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="student-copyright-checklist.jpg">
@@ -150,7 +158,9 @@ p {
     <div class="desc">Click Here for the Student Copyright Checklist</div>
   </div>
 </div>
-
+</div>
+  
+<div class="column2">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog1.jpg">
@@ -159,7 +169,9 @@ p {
     <div class="desc">Click Here for the Work Log: Part One</div>
   </div>
 </div>
+</div>
 
+<div class="column2">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog2.jpg">
@@ -168,7 +180,9 @@ p {
     <div class="desc">Click Here for the Work Log: Part Two</div>
   </div>
 </div>
+</div>
 
+<div class="column2">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog3.jpg">
@@ -176,4 +190,6 @@ p {
     </a>
     <div class="desc">Click Here for the Work Log: Part Three</div>
   </div>
+</div>
+</div>
 </div>
