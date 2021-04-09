@@ -154,7 +154,7 @@ div.desc {
 <div class="column">
 <div class="gallery">
   <a target="_blank">
-    <img src="IMG_6255.jpg" alt="Person" width="600" height="400">
+    <img src="IMG_6255.jpg" alt="Person" width="600" height="600">
   </a>
   <div class="desc">Nisal Wijekularathna</div>
   <div class="desc">IT Support</div>
@@ -179,7 +179,7 @@ div.desc {
   <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="250" height="200" class="center"> 
           
 
-  <p style=" font-size: 60px"> Connect with Us on social media: </p> 
+  <p style=" font-size: 60px"> Connect with Us on Social Media: </p> 
   <p style=" font-size: 50px">@MedComms</p>
 
 <div class="footer">
