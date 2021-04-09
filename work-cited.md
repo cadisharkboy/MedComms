@@ -142,7 +142,8 @@ p {
   </div>
   <div class="column">
    <h3> Images </h3>
-   <p>All graphics were created by Marion Coffman.</p>
+   <p>Enterprise Career Tech Center and Enterprise "E" logo created by Drew Key.</p>
+   <p>All other graphics were created by Marion Coffman.</p>
    <p>Image of doctor helping his patient is from:
    <a target="_blank" href="https://www.freepik.com/photos/people"> Freepik </a>
 
