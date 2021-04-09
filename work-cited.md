@@ -149,7 +149,6 @@ p {
 <div class="clearfix"></div>
 
 <div class="row">
-<div class="column2">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="student-copyright-checklist.jpg">
@@ -158,9 +157,7 @@ p {
     <div class="desc">Click Here for the Student Copyright Checklist</div>
   </div>
 </div>
-</div>
-  
-<div class="column2">
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog1.jpg">
@@ -169,9 +166,8 @@ p {
     <div class="desc">Click Here for the Work Log: Part One</div>
   </div>
 </div>
-</div>
 
-<div class="column2">
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog2.jpg">
@@ -180,9 +176,8 @@ p {
     <div class="desc">Click Here for the Work Log: Part Two</div>
   </div>
 </div>
-</div>
 
-<div class="column2">
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="worklog3.jpg">
@@ -192,4 +187,4 @@ p {
   </div>
 </div>
 </div>
-</div>
+
