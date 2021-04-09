@@ -174,9 +174,9 @@ div.desc {
 </div>
 
   <p style=" font-size: 60px" class="center">Partners:</p> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="190" height="200" class="center">
+  <img src="eCat-Logo-transparent.png" width="250" height="200" class="center">
     
-  <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/2/21/Nvidia_logo.svg/1280px-Nvidia_logo.svg.png" width="250" height="200" class="center"> 
+  <img src="ECTC-logo-transparent.png" width="250" height="200" class="center"> 
           
 
   <p style=" font-size: 60px"> Connect with Us on Social Media: </p> 
