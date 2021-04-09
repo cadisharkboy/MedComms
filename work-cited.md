@@ -145,7 +145,7 @@ p {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="student-copyright-checklist.jpg">
-      <img src="student-copyright-checklist.jpg" alt="Copyright" width="600" height="400">
+      <img src="student-copyright-checklist.jpg" alt="Copyright" width="800" height="600">
     </a>
     <div class="desc">Click Here for the Student Copyright Checklist</div>
   </div>
@@ -153,8 +153,8 @@ p {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="worklog1.jpg">
-      <img src="worklog1.jpg" alt="Work log " width="600" height="400">
+    <a target="_blank" href="worklog1.jpg">
+      <img src="worklog1.jpg" alt="Work log " width="800" height="600">
     </a>
     <div class="desc">Click Here for the Work Log: Part One</div>
   </div>
@@ -162,8 +162,8 @@ p {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="worklog2.jpg">
-      <img src="worklog2.jpg" alt="Work log 2" width="600" height="400">
+    <a target="_blank" href="worklog2.jpg">
+      <img src="worklog2.jpg" alt="Work log 2" width="800" height="600">
     </a>
     <div class="desc">Click Here for the Work Log: Part Two</div>
   </div>
@@ -171,8 +171,8 @@ p {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="worklog3.jpg">
-      <img src="worklog3.jpg" alt="Work log 2" width="600" height="400">
+    <a target="_blank" href="worklog3.jpg">
+      <img src="worklog3.jpg" alt="Work log 2" width="800" height="600">
     </a>
     <div class="desc">Click Here for the Work Log: Part Three</div>
   </div>
